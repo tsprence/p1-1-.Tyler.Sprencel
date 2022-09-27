@@ -35,3 +35,4 @@ Suggested improvements:
   1. Simplify design with touch screen (put alarm and call button underneath a general help button.)
   2. Ask to verify that user wants to sound the alarm or make a call.
   3. Have a display next to the buttons showing the desination and acknowleding that a button has been pressed with text.
+  4. Make alarm button and call button symbols in red.
