@@ -37,4 +37,4 @@ Suggested improvements:
   3. Have a display next to the buttons showing the desination and acknowleding that a button has been pressed with text.
   4. Make alarm button and call button symbols in red.
 
-![](p1.Tyler.Sprencel%20(2))
+![](p1.Tyler.Sprencel%20(2).png)
