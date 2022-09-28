@@ -39,3 +39,5 @@ Suggested improvements:
   4. Make alarm button and call button symbols in red.
 
 ![](p1.Tyler.Sprencel%20(2).png)
+
+![](p1.Tyler.Sprencel%20(4).gif)
