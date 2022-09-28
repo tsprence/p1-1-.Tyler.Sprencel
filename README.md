@@ -1,5 +1,5 @@
 # tsprence.github.io
-![](imgaes/p1.Tyler.Sprencel.png)
+![](images/p1.Tyler.Sprencel.png)
 ![](images/p1.Tyler.Sprencel%20(3).gif)
 Issues with current design:
   1. Call button is placed very high up
