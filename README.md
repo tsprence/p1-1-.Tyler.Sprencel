@@ -40,4 +40,4 @@ Suggested improvements:
 
 ![](images/p1.Tyler.Sprencel%20(2).png)
 
-![](images/p1.Tyler.Sprencel%20(5).gif)
+![](images/p1.Tyler.Sprencel%20(1).gif)
