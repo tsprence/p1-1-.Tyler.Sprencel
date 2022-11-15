@@ -1,4 +1,4 @@
-# tsprence.github.io
+
 ![](images/p1.Tyler.Sprencel.png)
 ![](images/p1.Tyler.Sprencel%20(3).gif)
 Issues with current design:
